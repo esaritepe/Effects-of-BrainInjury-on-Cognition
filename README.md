@@ -1,3 +1,16 @@
 # Effects of Traumatic Brain Injury on Cognition 
 
-This is the Python code for my master's thesis. For this project, I had to investigate any relationship between traumatic brain injury (TBI) and human executive functions. Using software called FreeSurfer, I collected brain anatomical measurements (cortical thickness, surface area, volume) for the subjects' MRI data. Using these anatomical measurements, I created structural covariance networks (SCNs) to analyze the graphical properties of the brain. Three graph theory parameters were used in the data analysis: nodal degree, average clustering coefficient, and average shortest path length. Neuropsychological test score data was also utilized to quantitate the subjects' executive function performance. Specifically, the Color-Word Interference Test (CWIT) was used to assess the ability to inhibit cognitive interference. By combining the neuropsychological data and the graph theory parameters, linear regression analyses were performed to observe any correlational relationships. The only regression models that had accurate and precise results were the surface area-shortest path models. 
+Description
+------------
+### Background
+* There's been some exciting potential for a new neuroimaging analysis technique called structural covariance networks (SCNs), especially for traumatic brain injury (TBI) research. However, the literature on the most reliable brain measurement is not well-established.
+* Using a neuroimaging software called FreeSurfer, three anatomical measurements were collected (cortical thickness, surface area, and volume). These brain measurements were used to create SCNs so that the graph theory properties of the biological neural networks can be studied. 
+* Neuropsychological data were also collected from TBI subjects. Tests that determine the cognitive abilities of the subjects were used. 
+
+### Modeling
+* Multiple linear regression models were created to determine any correlation between graph theory parameters and neuropsychological test scores. Statistical analyses were also performed to verify the accuracy and precision of the data. 
+* One alternate brain measurement, surface area, was found to have 170% more reliable results than the more commonly used cortical thickness. 
+* Made suggestions to the scientific field to establish surface area as the standard brain measurement for SCN studies, ensuring more reliable results in the future. 
+
+### Limitations
+* Since this project was completed in an academic setting, the data cannot be included in the repository for confidentiality reasons. 
