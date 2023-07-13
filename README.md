@@ -1,6 +1,6 @@
 # Effects of Traumatic Brain Injury on Cognition 
 
-![Brain Network](https://upload.wikimedia.org/wikipedia/commons/0/0e/Brain_network.png) 
+![Brain Network](https://upload.wikimedia.org/wikipedia/commons/0/0e/Brain_network.png =20x100) 
 
 Description
 ------------
