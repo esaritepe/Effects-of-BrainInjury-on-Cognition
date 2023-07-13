@@ -1,5 +1,7 @@
 # Effects of Traumatic Brain Injury on Cognition 
 
+![Brain Network](https://commons.wikimedia.org/wiki/File:Brain_network.png) 
+
 Description
 ------------
 ### Background
