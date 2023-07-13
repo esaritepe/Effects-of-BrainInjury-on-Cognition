@@ -8,6 +8,8 @@ Description
 ------------
 ### Background
 * There's been some exciting potential for a new neuroimaging analysis technique called structural covariance networks (SCNs), especially for traumatic brain injury (TBI) research. However, the literature on the most reliable brain measurement is not well-established.
+
+### Project Goals
 * Using a neuroimaging software called FreeSurfer, three anatomical measurements were collected (cortical thickness, surface area, and volume). These brain measurements were used to create SCNs so that the graph theory properties of the biological neural networks can be studied. 
 * Neuropsychological data were also collected from TBI subjects. Tests that determine the cognitive abilities of the subjects were used. 
 
@@ -17,4 +19,7 @@ Description
 * Made suggestions to the scientific field to establish surface area as the standard brain measurement for SCN studies, ensuring more reliable results in the future. 
 
 ### Limitations
-* Since this project was completed in an academic setting, the data cannot be included in the repository for confidentiality reasons. 
+* Since this project was completed in an academic setting, the data cannot be included in the repository for confidentiality reasons.
+
+Results
+--------
