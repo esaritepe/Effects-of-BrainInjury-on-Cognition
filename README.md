@@ -37,7 +37,7 @@ Results
 <img src="https://github.com/esaritepe/Effects-of-BrainInjury-on-Cognition/blob/main/screenshots/surface_area.png" alt="Surface Area"/>
 </p>
 
-This is a linear regression graph that uses <ins>**surface area**</ins> measurements. As you can see, there is a very noticeable positive trend between the Average Characteristic Path Length (a graph theory parameter that measures the shortest average distance between two nodes) and Inhibition Scaled Score (measures performance on cognition tasks). The results for this model are significant, as the p-value is <0.05. The sides of the graph also show the sampling distribution of the linear regression variables.
+This is a linear regression graph that uses <ins>**surface area**</ins> measurements. As you can see, there is a very noticeable positive trend between the *Average Characteristic Path Length* (a graph theory parameter that measures the shortest average distance between two nodes) and *Inhibition Scaled Score* (measures performance on cognition tasks). The results for this model are significant, as the p-value is <0.05. The sides of the graph also show the sampling distribution of the linear regression variables.
 
 <p align="center">
 <img src="https://github.com/esaritepe/Effects-of-BrainInjury-on-Cognition/blob/main/screenshots/thickness.png" alt="Thickness"/>
