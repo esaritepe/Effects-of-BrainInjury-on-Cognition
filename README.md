@@ -33,4 +33,4 @@ In the repository, you will see three notebooks each covering one of the brain m
 
 Results
 --------
-![Surface Area](https://raw.github.com/esaritepe/Effects-of-BrainInjury-on-Cognition/screenshots/surface_area.png)
+![Surface Area](https://github.com/esaritepe/Effects-of-BrainInjury-on-Cognition/blob/main/screenshots/surface_area.png)
