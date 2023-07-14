@@ -21,5 +21,16 @@ Description
 ### Limitations
 * Since this project was completed in an academic setting, the data cannot be included in the repository for confidentiality reasons.
 
+File Structure
+--------------
+In the repository, you will see three notebooks each covering one of the brain measurements used in the project. In each of these notebooks, you will find Python code that performs the following:
+  * Importation of brain measurement datasets
+  * A correlation matrix comparing similarities between the different brain regions
+  * Generation of brain network graphs
+  * Merging data with the neuropsychological scores
+  * Linear regression models comparing the graph theory parameters of brain networks and neuropsychological test scores
+  * Statistical analyses (Standard error of the estimate, Adj, R-squared, etc.) to verify the accuracy and precision of the results 
+
 Results
 --------
+![Surface Area](https://raw.github.com/esaritepe/Effects-of-BrainInjury-on-Cognition/screenshots/surface_area.png)
